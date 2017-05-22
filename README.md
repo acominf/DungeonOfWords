@@ -1,4 +1,4 @@
-![En construcción](F:\DungeonWord3.0\images/inicio.jpg)
+![En construcción](https://i.warosu.org/data/tg/img/0312/20/1396455214202.jpg)
 
 ### Objetivo del juego/aplicación
 El objetivo del juego/aplicación es poner en practica los conocimientos aprendidos a  lo largo del curso y poder desarrollar un videojuego que nos permita usar nuestro razonamiento logico y poder crear este juego didactico de manera que pueda servirle a personas de diferentes edades.
