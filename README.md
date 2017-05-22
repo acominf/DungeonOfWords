@@ -103,8 +103,8 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Moreno Torres Ricardo Enrique (REMT11)
+- Varela Tristan Gerardo Antonio (SANGUINETIARA)
 
 ### Materia(s)
 - Programación Orientada a Objetos
