@@ -22,7 +22,7 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
  *caracteristica2: Administra las funciones del menu, ya sea jugar, instrucciones o salir.
  *caracteristica3: Muestra la imagen del fondo.
 
-4. Clase 4
+4. Clase 4 Elige
 * caracteristica1: Extiende de la clase World.
 * caracteristica2: Administra el personaje seleccionado por el usuario.
 
