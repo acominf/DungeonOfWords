@@ -134,7 +134,8 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica2: Se encarga de controlar las vidas del personaje principal.
 
 ### Diagrama de clases
-![Diagrama de clases](https://lh3.googleusercontent.com/-fBQzWLbYfwc/WSu050nwzKI/AAAAAAAAAdo/XRybcz5PTgs13Bv6Jb6vtm9-oHV5r4sZwCL0B/w530-d-h317-p-rw/diagrama%2Bde%2B%2Bclases%2Bobjetos.png)
+![Diagrama de clases](https://lh3.googleusercontent.com/-meYwW3t4GYg/WSvItHZHEaI/AAAAAAAAAfE/iQe2LQRM6hY4ECPxxKjEctmpgvXWT1XzQCL0B/w265-d-h353-n-rw/uml1.png)
+![Diagrama de clases](https://lh3.googleusercontent.com/-meYwW3t4GYg/WSvItHZHEaI/AAAAAAAAAfE/iQe2LQRM6hY4ECPxxKjEctmpgvXWT1XzQCL0B/w265-d-h353-n-rw/uml2.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
