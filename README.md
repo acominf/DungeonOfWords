@@ -129,6 +129,10 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
+30. Clase 30: corazones
+* caracteristica1: Extiende de la clase Actor.
+* caracteristica2: Se encarga de controlar las vidas del personaje principal.
+
 ### Diagrama de clases
 ![Diagrama de clases](https://lh3.googleusercontent.com/-fBQzWLbYfwc/WSu050nwzKI/AAAAAAAAAdo/XRybcz5PTgs13Bv6Jb6vtm9-oHV5r4sZwCL0B/w530-d-h317-p-rw/diagrama%2Bde%2B%2Bclases%2Bobjetos.png)
 
