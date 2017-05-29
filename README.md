@@ -95,7 +95,7 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+![Diagrama de clases](https://lh3.googleusercontent.com/-fBQzWLbYfwc/WSu050nwzKI/AAAAAAAAAdo/XRybcz5PTgs13Bv6Jb6vtm9-oHV5r4sZwCL0B/w530-d-h317-p-rw/diagrama%2Bde%2B%2Bclases%2Bobjetos.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
