@@ -73,27 +73,50 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton salir.
 
-16. Clase 16: BIori
+16. Clase 16: Home
+* caracteristica1: Extiende de la clase botones.
+* caracteristica2: Valida cuando se presiona el boton home..
+
+17. Clase 17: BIori
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Iori.
 
-17. Clase 17: Volver
+18. Clase 18: BMarco
+* caracteristica1: Extiende de la clase botones.
+* caracteristica2: Valida cuando se presiona el boton de seleccion sobre Marco.
+
+19. Clase 19: BGoku
+* caracteristica1: Extiende de la clase botones.
+* caracteristica2: Valida cuando se presiona el boton de seleccion sobre Goku.
+
+20. Clase 20: BCapitanamerica
+* caracteristica1: Extiende de la clase botones.
+* caracteristica2: Valida cuando se presiona el boton de seleccion sobre Capitan america.
+
+21. Clase 21: BDeadpool
+* caracteristica1: Extiende de la clase botones.
+* caracteristica2: Valida cuando se presiona el boton de seleccion sobre Dead pool.
+
+22. Clase 22: Volver
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton volver.
 
-18. Clase 19: Enemigo1
+23. Clase 23: Enemigo1
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo1.
 
-19. Clase 20: Fuego
+24. Clase 24: Fuego
 * caracteristica1: Extiende de la clase Enemigo1.
 * caracteristica2: Se encarga de validar cuando Enemigo1 debe atacar al personaje principal.
 
 
-20. Clase 21: Enemigo2
+25. Clase 25: Enemigo2
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
+26. Clase 26: Enemigo2
+* caracteristica1: Extiende de la clase Actor.
+* caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 ### Diagrama de clases
 ![Diagrama de clases](https://lh3.googleusercontent.com/-fBQzWLbYfwc/WSu050nwzKI/AAAAAAAAAdo/XRybcz5PTgs13Bv6Jb6vtm9-oHV5r4sZwCL0B/w530-d-h317-p-rw/diagrama%2Bde%2B%2Bclases%2Bobjetos.png)
 
