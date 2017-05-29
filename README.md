@@ -1,4 +1,4 @@
-![En construcción](https://lh3.googleusercontent.com/-U0wGPKlLyk0/WSuw0dA2xnI/AAAAAAAAAdE/BywQOu4F6Tk-wz1J7lsK6CzBAkDZnOdSgCJoC/w530-h303-p-rw/inicio.png)
+![En construcción](blob:https://web.whatsapp.com/367b0555-9174-4ad8-956d-a40be4cd67d4)
 
 ### Objetivo del juego/aplicación
 El objetivo del juego/aplicación es poner en practica los conocimientos aprendidos a  lo largo del curso y poder desarrollar un videojuego que nos permita usar nuestro razonamiento logico y poder crear este juego didactico de manera que pueda servirle a personas de diferentes edades.
