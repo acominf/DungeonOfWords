@@ -137,7 +137,7 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 ![Diagrama de clases](https://lh3.googleusercontent.com/-bb3UWzXWgyc/WSvJFzZJDtI/AAAAAAAAAfY/VZYKiU0RZyUFxmFtSfHMC7kcUdHZdz_dgCL0B/w530-d-h398-p-rw/uml1.png)
 
 ### Diagrama de clases
-![Diagrama de clases](https://lh3.googleusercontent.com/-meYwW3t4GYg/WSvItHZHEaI/AAAAAAAAAfE/iQe2LQRM6hY4ECPxxKjEctmpgvXWT1XzQCL0B/w265-d-h353-n-rw/uml2.png)
+![Diagrama de clases](https://lh3.googleusercontent.com/-bIrBUnrlrwQ/WSvJueL0zJI/AAAAAAAAAgc/bzWHD2ol8joQJsFy_jAWkUZ8ZQjO-HmCgCL0B/w530-d-h398-p-rw/uml2.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
