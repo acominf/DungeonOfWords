@@ -81,21 +81,17 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton volver.
 
-18. Clase 18: Enemigos
+18. Clase 19: Enemigo1
 * caracteristica1: Extiende de la clase Actor.
-* caracteristica2: Contiene los metodos dependiendo del enemigo.
-
-19. Clase 19: Enemigo1
-* caracteristica1: Extiende de la clase Enemigos.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo1.
 
-20. Clase 20: Fuego
+19. Clase 20: Fuego
 * caracteristica1: Extiende de la clase Enemigo1.
 * caracteristica2: Se encarga de validar cuando Enemigo1 debe atacar al personaje principal.
 
 
-21. Clase 21: Enemigo2
-* caracteristica1: Extiende de la clase Enemigos.
+20. Clase 21: Enemigo2
+* caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
 ### Diagrama de clases
