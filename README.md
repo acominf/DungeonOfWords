@@ -41,82 +41,94 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica1: Extiende de la clase Personajes.
 * caracteristica2: Se encarga del movimiento y ataque del personaje Ryu.
 
-8. Clase 8: Disparo
-* caracteristica1: Extiende de la clase Ryu.
-* caracteristica2: Se encarga de validar cuando Ryu debe atacar a un enemigo.
-
-9. Clase 9: Iori
+8. Clase 8: Iori
 * caracteristica1: Extiende de la clase Personajes.
 * caracteristica2: Se encarga del movimiento y ataque del personaje Iori.
 
-10. Clase 10: Texto
+9. Clase 9: Marco
+* caracteristica1: Extiende de la clase Personajes.
+* caracteristica2: Se encarga del movimiento y ataque del personaje Marco.
+
+10. Clase 10: Goku
+* caracteristica1: Extiende de la clase Personajes.
+* caracteristica2: Se encarga del movimiento y ataque del personaje Goku.
+
+11. Clase 11: Capitanamerica
+* caracteristica1: Extiende de la clase Personajes.
+* caracteristica2: Se encarga del movimiento y ataque del personaje Capitanamerica.
+
+12. Clase 12: Deadpool
+* caracteristica1: Extiende de la clase Personajes.
+* caracteristica2: Se encarga del movimiento y ataque del personaje Deadpool.
+
+13. Clase 13: Disparo
+* caracteristica1: Extiende de la clases de Ryu, Marco y Goku.
+* caracteristica2: Se encarga de validar cuando Ryu debe atacar a un enemigo.
+
+14. Clase 14: Texto
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga de los textos mostrados graficamente.
 
-11. Clase 11: botones
+15. Clase 15: botones
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga de los botones mostrados graficamente.
 
-12. Clase 12: Instrucciones
+16. Clase 16: Instrucciones
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton instrucciones.
 
-13. Clase 14: Jugar
+17. Clase 17: Jugar
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton jugar.
 
-14. Clase 14: BRyu
+18. Clase 18: BRyu
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Ryu.
 
-15. Clase 15: Salir
+19. Clase 19: Salir
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton salir.
 
-16. Clase 16: Home
+20. Clase 20: Home
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton home..
 
-17. Clase 17: BIori
+21. Clase 21: BIori
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Iori.
 
-18. Clase 18: BMarco
+22. Clase 22: BMarco
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Marco.
 
-19. Clase 19: BGoku
+23. Clase 23: BGoku
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Goku.
 
-20. Clase 20: BCapitanamerica
+24. Clase 24: BCapitanamerica
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Capitan america.
 
-21. Clase 21: BDeadpool
+25. Clase 25: BDeadpool
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton de seleccion sobre Dead pool.
 
-22. Clase 22: Volver
+26. Clase 26: Volver
 * caracteristica1: Extiende de la clase botones.
 * caracteristica2: Valida cuando se presiona el boton volver.
 
-23. Clase 23: Enemigo1
+27. Clase 27: Enemigo1
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo1.
 
-24. Clase 24: Fuego
+28. Clase 28: Fuego
 * caracteristica1: Extiende de la clase Enemigo1.
 * caracteristica2: Se encarga de validar cuando Enemigo1 debe atacar al personaje principal.
 
-
-25. Clase 25: Enemigo2
+29. Clase 29: Enemigo2
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
-26. Clase 26: Enemigo2
-* caracteristica1: Extiende de la clase Actor.
-* caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 ### Diagrama de clases
 ![Diagrama de clases](https://lh3.googleusercontent.com/-fBQzWLbYfwc/WSu050nwzKI/AAAAAAAAAdo/XRybcz5PTgs13Bv6Jb6vtm9-oHV5r4sZwCL0B/w530-d-h317-p-rw/diagrama%2Bde%2B%2Bclases%2Bobjetos.png)
 
