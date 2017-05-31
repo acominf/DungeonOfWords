@@ -121,21 +121,29 @@ La descripción del juego/aplicación es un juego de palabras aleatorias en ingl
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo1.
 
-28. Clase 28: Fuego
-* caracteristica1: Extiende de la clase Enemigo1.
-* caracteristica2: Se encarga de validar cuando Enemigo1 debe atacar al personaje principal.
-
-29. Clase 29: Enemigo2
+28. Clase 28: Enemigo2
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga del movimiento y ataque del Enemigo2.
 
-30. Clase 30: corazones
+29. Clase 29: Enemigo3
+* caracteristica1: Extiende de la clase Actor.
+* caracteristica2: Se encarga del movimiento y ataque del Enemigo3.
+
+30. Clase 30: Enemigo4
+* caracteristica1: Extiende de la clase Actor.
+* caracteristica2: Se encarga del movimiento y ataque del Enemigo4.
+
+31. Clase 31: Enemigo5
+* caracteristica1: Extiende de la clase Actor.
+* caracteristica2: Se encarga del movimiento y ataque del Enemigo5.
+
+32. Clase 32: corazones
 * caracteristica1: Extiende de la clase Actor.
 * caracteristica2: Se encarga de controlar las vidas del personaje principal.
 
 ### Diagrama de clases
-![Diagrama de clases](https://lh3.googleusercontent.com/-bb3UWzXWgyc/WSvJFzZJDtI/AAAAAAAAAfY/VZYKiU0RZyUFxmFtSfHMC7kcUdHZdz_dgCL0B/w530-d-h398-p-rw/uml1.png)
-![Diagrama de clases](https://lh3.googleusercontent.com/-Lxl_Gjt9H1Q/WS7C32u3YkI/AAAAAAAAAiY/1oMKcLCVMSAimOX16e3y8WcHom0MpaRIgCL0B/w530-d-h297-p-rw/Imagen1.png)
+![Diagrama de clases](https://lh3.googleusercontent.com/-kDGynvnOf0Q/WS70yba4i9I/AAAAAAAAAjI/socMXtfIKNUS5f4s8eF5sVX98Hlak0IoACL0B/w530-d-h429-p-rw/Diagramadeclase.png)
+
 
 ### Autor(es)
 El autor(es) del proyecto son:
