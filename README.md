@@ -1,7 +1,7 @@
 ![En construcción](https://lh3.googleusercontent.com/-U0wGPKlLyk0/WSuw0dA2xnI/AAAAAAAAAdU/JezaHOPyCmE_cS3SAjmo35M8fn1A4297QCJoC/w530-h303-p-rw/inicio.png)
 
 ### TRAILER DEL JUEGO
-https://www.dropbox.com/pri/get/Proyecto_objetos2.avi?_subject_uid=290201519&w=AAD4o9Mi_SPQp1Y8WW8GGvzwQO51vzrP9gdgfQBhMQ8wpA
+https://www.dropbox.com/home?preview=Proyecto_objetos2.avi
 
 ### Objetivo del juego/aplicación
 El objetivo del juego/aplicación es poner en practica los conocimientos aprendidos a  lo largo del curso y poder desarrollar un videojuego que nos permita usar nuestro razonamiento logico y poder crear este juego didactico de manera que pueda servirle a personas de diferentes edades.
