@@ -162,7 +162,7 @@ El autor(es) del proyecto son:
 ### Universidad Autónoma de San Luis Potosí, 2017
 
 ### Download
-https://www.dropbox.com/pri/get/DungeonWord10.0.zip?_subject_uid=290201519&w=AADr8J56tlyye6ZBJKhbt4humEbMH2bGLYjZQ5n_QIOyXg
+http://www.greenfoot.org/scenarios/19504
 
 ### Markdown
 El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado _Markdown_. **Para modificar el contenido de esta página se tiene que editar el archivo README.md del repositorio**. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
