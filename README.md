@@ -4,7 +4,7 @@
 El objetivo del juego/aplicación es poner en practica los conocimientos aprendidos a  lo largo del curso y poder desarrollar un videojuego que nos permita usar nuestro razonamiento logico y poder crear este juego didactico de manera que pueda servirle a personas de diferentes edades.
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es un juego de palabras aleatorias en ingles que se muestran en pantalla de manera revuelta, el jugador debe de identificar de que palabra se trata para escribirla correctamente y poder avanzar a la siguiente palabra, debes ser habil pues el personaje solo atacara a los enemigos si aciertas la palabra, de lo contrario el enemigo atacara a dicho personaje.
+La descripción del juego/aplicación es un juego de palabras aleatorias en ingles que se muestran en pantalla de manera revuelta, el jugador debe de identificar de que palabra se trata para escribirla correctamente y poder avanzar a la siguiente palabra, debes ser habil pues el personaje solo atacara a los enemigos si aciertas la palabra, de lo contrario el enemigo atacara al personaje y perdera una vida.
 
 ### Clases principales y sus características
 1. Clase 1 Juego
